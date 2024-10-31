@@ -180,13 +180,13 @@ button:hover {
     background: linear-gradient(90deg,var(--var-bg-color)15%, #dfd6be 100%);
     position : absolute;
     right: 10px ;
-    margin-left: 10px;
+    
 
 }
 .cercle:nth-child(2) {
     background: linear-gradient(90deg,var(--var-bg-color)15%, #dfd6be 100%);
     position: absolute;
-    left: 65px;
+    left: 30px;
    
     
 
